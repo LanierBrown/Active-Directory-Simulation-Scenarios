@@ -14,28 +14,28 @@
 ![Screenshot 2024-11-22 125216](https://github.com/user-attachments/assets/d9cebfd1-d683-4842-9d91-6dc729411c04)
 
       
-   3. Navigate to the appropriate **Organizational Unit (OU)** (e.g., "Employees" or "New Hires").
+   2. Navigate to the appropriate **Organizational Unit (OU)** (e.g., "Employees" or "New Hires").
 
 ![Screenshot 2024-11-22 135524](https://github.com/user-attachments/assets/9d5c47b9-e71e-4961-b203-2d2aa3901522)
 
       
-   4. Right-click and select **New > User**.
+   3. Right-click and select **New > User**.
       
 ![Screenshot 2024-11-22 135754](https://github.com/user-attachments/assets/025e9c1e-890a-4bb2-8bb0-f10e23ac6806)
 
       
-   6. Fill in the user's details:
+   4. Fill in the user's details:
       - **First Name**, **Last Name**, and **Username** (e.g., `jdoe`).
         
 ![Screenshot 2024-11-22 135935](https://github.com/user-attachments/assets/f59e20d1-58f1-4707-8e34-87480faffdac)
 
       
-   7. Set a temporary password and check the option for **"User must change password at next logon"**.
+   5. Set a temporary password and check the option for **"User must change password at next logon"**.
       
 ![Screenshot 2024-11-22 140156](https://github.com/user-attachments/assets/f7417d04-21a8-4358-a92a-48c9caae4faf)
 
       
-   9. Click **Finish** to create the user account.
+   6. Click **Finish** to create the user account.
 
 ![Screenshot 2024-11-22 140247](https://github.com/user-attachments/assets/900e7346-b2aa-45f8-b77f-d1003fb45305)
 
