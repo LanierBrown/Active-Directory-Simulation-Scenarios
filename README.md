@@ -10,9 +10,10 @@
    1. Open **Active Directory Users and Computers (ADUC)**.
       
 ![Screenshot 2024-11-22 124959](https://github.com/user-attachments/assets/d7c76a86-e01e-4f65-93c4-9a98a56ba5bf)
+  - Active Directory can be opened through the service manager under (Tools) 
 
 ![Screenshot 2024-11-22 125216](https://github.com/user-attachments/assets/d9cebfd1-d683-4842-9d91-6dc729411c04)
-
+  - Active Directory can also be opened through the search bar, next to the Windows button
       
    2. Navigate to the appropriate **Organizational Unit (OU)** (e.g., "Employees" or "New Hires").
 
