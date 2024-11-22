@@ -93,16 +93,23 @@
 
 ---
 
-### 3️⃣ **Unlocking a User Account**
-   **Scenario**: A user has been locked out of their account due to multiple incorrect login attempts.
+### 3️⃣ **Adding a User to a Security Group**
+   **Scenario**: A user needs access to a shared folder or application, which requires membership in a specific security group.
 
    **Steps**:
    1. Open **Active Directory Users and Computers (ADUC)**.
-   2. Search for the user account in the **Search bar**.
-   3. Right-click the account and select **Properties**.
-   4. Navigate to the **Account** tab.
-   5. Uncheck the box for **"Account is locked out"** if selected.
-   6. Click **OK** to save the changes.
+   2. Search for the user by name or username using the **Search bar**.
+   3. Double-click the user account to open their properties.
+   4. Navigate to the **Member Of** tab.
+   5. Click **Add** and search for the required security group (e.g., "Finance Team" or "HR Access").
+   6. Select the group and click **OK** to add the user to it.
+   7. Confirm the group now appears in the **Member Of** list and click **OK** to save.
+
+   **Verification**:
+   - Inform the user their access should now be available.
+   - Test access to the shared folder or application, if possible.
+
+---
 
 
       ## 🎉 Conclusion
