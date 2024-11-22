@@ -63,27 +63,27 @@
       ![Screenshot 2024-11-22 125216](https://github.com/user-attachments/assets/c6302055-9049-40fb-bee7-dd9bebd8d886)
 
       
-   3. Search for the user by name or username using the **Search bar**.
+   2. Search for the user by name or username using the **Search bar**.
       
 ![Screenshot 2024-11-22 140414](https://github.com/user-attachments/assets/51592366-ddeb-4019-aa4b-2f0475d24e10)
 
     
-   5. Right-click the user account and select **Reset Password**.
+   3. Right-click the user account and select **Reset Password**.
       
 ![Screenshot 2024-11-22 142551](https://github.com/user-attachments/assets/cd18fb92-43ce-4359-bda0-69b62d207413)
 
     
-   7. Enter a new temporary password (must meet your organization’s password policy).
+   4. Enter a new temporary password (must meet your organization’s password policy).
       
 ![Screenshot 2024-11-22 142717](https://github.com/user-attachments/assets/4659100f-e6ad-401e-8a35-9b3f1eda443f)
 
 
-   9. Check the box for **"User must change password at next logon"**.
+   5. Check the box for **"User must change password at next logon"**.
        
 ![Screenshot 2024-11-22 142749](https://github.com/user-attachments/assets/5f754ac1-1c4f-45e6-890b-7e95a0d83426)
 
       
-   11. Communicate the temporary password to the user and instruct them to change it upon logging in.
+   6. Communicate the temporary password to the user and instruct them to change it upon logging in.
 
    **Verification**:
    - Ask the user to log in and confirm they can reset their password.
