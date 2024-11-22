@@ -90,7 +90,7 @@
    - Ask the user to log in and confirm they can reset their password.
 
 ![Screenshot 2024-11-22 144323](https://github.com/user-attachments/assets/9b7f80a2-299b-44da-8684-045d78919d5d)
-
+  - Sending a text message would not be the first point of contact. We want to contact the Client through The Ticketing System, Email, or even Phone Calls if they are open and available to speak.
 
 ---
 
