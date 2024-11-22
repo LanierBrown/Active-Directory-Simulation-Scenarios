@@ -98,16 +98,42 @@
 
    **Steps**:
    1. Open **Active Directory Users and Computers (ADUC)**.
-   2. Search for the user by name or username using the **Search bar**.
-   3. Double-click the user account to open their properties.
-   4. Navigate to the **Member Of** tab.
-   5. Click **Add** and search for the required security group (e.g., "Finance Team" or "HR Access").
-   6. Select the group and click **OK** to add the user to it.
-   7. Confirm the group now appears in the **Member Of** list and click **OK** to save.
+      
+![Screenshot 2024-11-22 124959](https://github.com/user-attachments/assets/bcdd38c8-669b-4805-9dc4-a93ac634c68f)
+
+      
+   3. Search for the user by name or username using the **Search bar**.
+      
+![Screenshot 2024-11-22 150127](https://github.com/user-attachments/assets/a6f6f934-33e3-46af-b252-d8cf4d9e6f00)
+
+      
+   5. Double-click the user account to open their properties.
+
+      ![Screenshot 2024-11-22 150328](https://github.com/user-attachments/assets/a5f0b069-eeb7-46ad-ab20-4a60538c4f17)
+
+   6. Navigate to the **Member Of** tab.
+
+      ![Screenshot 2024-11-22 150435](https://github.com/user-attachments/assets/14383120-ee16-4065-8237-bf3f52dc1f5d)
+
+   7. Click **Add** and search for the required security group (e.g., "Finance Team" or "HR Access").
+
+       ![Screenshot 2024-11-22 150514](https://github.com/user-attachments/assets/d788ad8e-a7a1-46a4-8e8a-4e7bce5456a1)
+
+   8. Select the group and click **OK** to add the user to it.
+      
+![Screenshot 2024-11-22 150656](https://github.com/user-attachments/assets/7ee4f31d-3780-4873-bbe8-d3a050578088)
+
+       
+   9. Confirm the group now appears in the **Member Of** list and click **OK** to save.
+
+       ![Screenshot 2024-11-22 151549](https://github.com/user-attachments/assets/36676fbe-2195-42f4-8d15-56a7806ae43e)
+
 
    **Verification**:
    - Inform the user their access should now be available.
    - Test access to the shared folder or application, if possible.
+
+     
 
 ---
 
